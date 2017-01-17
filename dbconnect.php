@@ -1,8 +1,8 @@
 <?php
 //$servername = "localhost";
-//$username = "neomanir_rootyou";
-//$password = "Hashemi4080";
-//$dbname="neomanir_freewifi";
+//$username = "varaghon_fdread";
+//$password = "@21amirIRAN";
+//$dbname="varaghon_fdreader";
 $servername = "localhost";
 $username = "root";
 $password = "";
